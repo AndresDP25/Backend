@@ -1,0 +1,12 @@
+
+html
+	body
+		form(action='/products' method='post')
+			label(for='title') Title
+			input(type='text' name='title' id='title')
+			label(for='price') Price
+			input(type='text' name='price' id='price')
+			label(for='url') Thumbnail
+			input(type='text' name='url' id='thumbnail')
+			button(type="submit") Guardar
+		a(href='/products') Ver productos

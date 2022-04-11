@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Escuarda",
+    "price": 200,
+    "id": 1
+  },
+  {
+    "title": "palo",
+    "price": 200,
+    "id": 2
+  },
+  {
+    "title": "Escoba",
+    "price": 200,
+    "id": 3
+  }
+]
